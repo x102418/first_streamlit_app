@@ -1,3 +1,5 @@
 import streamlit
 
-streamlit.title('My Parents New Healthy Diner')
+streamlit.title('Seventh Heaven')
+streamlit.header('The Best Bar in Midgar')
+streamlit.text('owned by Tifa Lockhart')
